@@ -1,4 +1,4 @@
-###Data science coursera Modul#3 "Getting and Cleaning Data""
+#Data science coursera Modul#3 "Getting and Cleaning Data""
 
 ##This repository stores R-codes associated to the Project requirements on Getting and Cleaning Data.
 
@@ -8,13 +8,13 @@ The Goal which is pursuit within the Modul of Getting and Cleaning Data is to be
 3.  Performe Data Analysis on cleaned dataset
 
 
-#Assignment Requiremnts
+###Assignment Requiremnts
 1. Create a README.md
 2. Submit a tidy data set 
 3. Link the script and the txt files to the Github repository
 4. Create a CodeBook.md
 
-#Detailed Requirements
+###Detailed Requirements
 Download and unzip the data which is provided on https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Create a R script called run_analysis.R
