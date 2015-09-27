@@ -3,7 +3,7 @@
 
 ####This repository stores R-codes associated to the Project requirements on Getting and Cleaning Data.
 
-####The Goal which is pursuit within the Modul of Getting and Cleaning Data is to become able to:
+#####The Goal which is pursuit within the Modul of Getting and Cleaning Data is to become able to:
 1. Collect Data
 2. Clean the data
 3. Performe Data Analysis on cleaned dataset
@@ -18,7 +18,7 @@
 ###Detailed Requirements
 Download and unzip the data which is provided on https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-Create a R script called run_analysis.R
+###Create a R script called run_analysis.R
 The script must include codes which cover following requirements:
 
 1.  Merges the training and the test sets to create one data set.
