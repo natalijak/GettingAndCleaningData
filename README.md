@@ -2,7 +2,7 @@
 
 ###This repository stores R-codes associated to the Project requirements on Getting and Cleaning Data.
 
-The Goal which is pursuit within the Modul of Getting and Cleaning Data is to become able to:
+####The Goal which is pursuit within the Modul of Getting and Cleaning Data is to become able to:
 1. Collect Data
 2. Clean the data
 3. Performe Data Analysis on cleaned dataset
