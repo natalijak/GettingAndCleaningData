@@ -1,6 +1,7 @@
-##Data science coursera Modul#3 "Getting and Cleaning Data""
+##Getting and Cleaning Data
+####Data science coursera Modul#3
 
-###This repository stores R-codes associated to the Project requirements on Getting and Cleaning Data.
+####This repository stores R-codes associated to the Project requirements on Getting and Cleaning Data.
 
 ####The Goal which is pursuit within the Modul of Getting and Cleaning Data is to become able to:
 1. Collect Data
